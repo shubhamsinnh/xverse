@@ -1,6 +1,6 @@
 ![logo](/example/public/sats-connect.svg)
 
-Sats connect is a simple javascript library that connects apps to Bitcoin wallets like Xverse to retrieve user wallet addresses and sign transactions (PSBTs).
+Sats connect is a simple javascript library that connects apps to Bitcoin wallets like Xverse to retrieve user wallet addresses and sign transactions (PSBTs).   trdt
 
 Developers building apps on the Bitcoin ecosystem can use Sats connect to interact with users' wallets:
 
